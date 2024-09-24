@@ -110,7 +110,8 @@ cv2.destroyAllWindows()
 
 ```
 ## OUTPUT:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c22f0f56-30f7-4a02-90cd-7045fd6a71d6)
+
 
 ## RESULT:
 Thus, the image is accessed from the webcam, processed in real-time for object detection using YOLOv4, and displayed using OpenCV. The program terminates and closes the output window when the 'q' key is pressed.
