@@ -27,8 +27,8 @@ Display the video with detected objects using cv2.imshow().
 
 ## PROGRAM:
 ``` Python
-### Developed By: THrikeswar
-### Register No: 212222230162
+### Developed By: NAVEEN S
+### Register No: 212222240070
 
 import cv2
 import numpy as np
@@ -110,7 +110,8 @@ cv2.destroyAllWindows()
 
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/c22f0f56-30f7-4a02-90cd-7045fd6a71d6)
+![WhatsApp Image 2024-09-24 at 11 18 43 AM](https://github.com/user-attachments/assets/fecfb8ba-2cda-4e05-ae0d-9883128d0b8f)
+
 
 
 ## RESULT:
